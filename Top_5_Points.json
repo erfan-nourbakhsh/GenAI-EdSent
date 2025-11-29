@@ -1,0 +1,386 @@
+{
+    "AI Quiz Generator": [
+        {
+            "positive_points": [
+                "The app effectively supports students\u2019 exam preparation by improving study habits and aiding text memorization.",
+                "The app quickly generates fresh, original quizzes and questions on demand.",
+                "Users can select difficulty levels when generating questions, enabling tailored practice.",
+                "The app features a modern, easy-to-navigate interface that makes finding and using features straightforward.",
+                "The questions are well-crafted and include trick items that build critical thinking and test readiness."
+            ],
+            "negative_points": [
+                "The app often provides incorrect or low-quality content, including wrong questions, ambiguous answers, incorrect answer keys, and misleading answer feedback from the AI.",
+                "Strict usage limits and paywalls hinder use, with limited quiz attempts, timer restrictions, a 3-hour wait between tests, and a requirement to subscribe after a small free quota.",
+                "Essential file handling features are missing, as users cannot upload PDFs or save quizzes and solved quizzes.",
+                "Authentication is frustrating and unreliable, requiring email login and frequently failing during sign-in.",
+                "Question creation is too constrained, offering limited question types and limited customization options."
+            ]
+        }
+    ],
+    "Edu AI - AI Homework Helper": [
+        {
+            "positive_points": [
+                "The app enables users to complete homework tasks effectively.",
+                "The app delivers perfect-quality assignment outputs that meet high standards."
+            ],
+            "negative_points": [
+                "The app returns answers in Spanish instead of matching the user's preferred language.",
+                "Text is displayed in a font size that is too small to read comfortably."
+            ]
+        }
+    ],
+    "Help AI: Your Homework With AI": [
+        {
+            "positive_points": [
+                "The app reliably helps users complete homework and assignments across subjects, including essays, projects, and math problems.",
+                "The app delivers very fast, reliable performance with quick answer delivery that saves time.",
+                "The app provides accurate, correct answers and factually trustworthy information, including for calculations.",
+                "The app is easy to use thanks to a simple, user-friendly interface that makes getting help straightforward.",
+                "The app explains concepts clearly with detailed, easy-to-understand explanations that improve learners' understanding and exam readiness."
+            ],
+            "negative_points": [
+                "The app frequently provides incorrect, incomplete, or irrelevant answers, including wrong calculations, inaccurate information, brief or missing explanations, and sometimes no answer at all.",
+                "A restrictive ticket-based paywall limits free usage, forcing users to buy tickets or premium to ask more questions and unlock features like photo or math solutions, with points running out quickly.",
+                "Advertising is intrusive and disruptive, with too many and long video ads that are sometimes required to get tickets or view answers and occasionally fail to load, blocking usage.",
+                "Image and camera functions are unreliable, often failing to recognize text, miscropping or cutting pages, not sending or displaying pictures, and producing scanner or gallery errors.",
+                "Performance is slow, with delayed responses and very slow app or download speeds that make getting answers take too long."
+            ]
+        }
+    ],
+    "Answer.AI - Your AI tutor": [
+        {
+            "positive_points": [
+                "The app reliably helps students complete homework and assignments across subjects and grade levels.",
+                "The app consistently delivers accurate, correct answers that users trust for schoolwork.",
+                "The app explains solutions step by step, showing the work and reasoning so students truly understand concepts.",
+                "The app provides answers very quickly, with fast response times and smooth performance that save students time.",
+                "The app is easy to use, featuring an intuitive interface with straightforward navigation and convenient camera/scan input."
+            ],
+            "negative_points": [
+                "The app frequently provides incorrect or incomplete answers\u2014especially for math, graphs, and complex problems\u2014and often misinterprets questions.",
+                "Core features are locked behind an expensive paywall, prompting payment or subscription after only a few questions and sometimes leading to unexpected or unauthorized charges.",
+                "A restrictive energy/points/stars credit system severely limits free usage with daily and per-question caps, forcing users to watch ads or pay to continue.",
+                "The app is unstable and slow, with frequent crashes, freezes, login failures, and broken buttons or features (e.g., send/generate), often worsening after updates.",
+                "The camera/scan and image recognition functions are unreliable, failing to read screenshots or photos accurately, misreading text and diagrams, and struggling with graph-related problems."
+            ]
+        }
+    ],
+    "Quiz AI: AI Homework Helper": [
+        {
+            "positive_points": [
+                "The app reliably helps users with homework and assignments, making study tasks easier to complete.",
+                "The app is easy to use and provides a smooth, user-friendly experience.",
+                "The app accurately solves math problems and performs calculations, including support for mathematics and physics.",
+                "The app serves as an effective study aid for students and supports learning.",
+                "The app explains solutions clearly by breaking down problems step by step."
+            ],
+            "negative_points": [
+                "The free tier is severely restricted, forcing users to pay after only a few questions or photo scans and showing frequent premium prompts, ads, and a misleading free trial.",
+                "The app is unstable and slow, often crashing or failing to open, with typing lag and image loading delays, and core features like scanning and the tutor not working reliably.",
+                "Answer quality is poor, with frequent wrong or incomplete answers, low accuracy (reported as 20%), and explanations that lack sufficient detail.",
+                "Users encounter subscription and billing problems, including subscription activation failures, payment processing issues, and difficulty obtaining refunds.",
+                "Pricing is considered too high, with an expensive subscription and no option for a lifetime one-time purchase."
+            ]
+        }
+    ],
+    "Teacher AI - Language Practice": [
+        {
+            "positive_points": [
+                "Users praise the app's natural-sounding AI voice and strong AI functionality, making interactions feel realistic and effective.",
+                "The app is effective for language learning, particularly supporting intermediate speakers who want to advance.",
+                "The app provides on-the-fly grammar correction to improve users' accuracy in real time.",
+                "The app implements responsible AI practices that give users confidence in safe and ethical use.",
+                "The app offers a cost-effective alternative to a human tutor by delivering comparable value at a lower price."
+            ],
+            "negative_points": [
+                "The app\u2019s pricing and trial policies are too aggressive, with no free mode or free trial, short trials that require bank details, early charges, and an expensive subscription.",
+                "The app frequently crashes, locks up, and responds slowly, indicating unstable performance.",
+                "Speech recognition quality is unreliable, with poor transcription accuracy and pronunciation errors, including for Korean.",
+                "Audio features are unreliable, as hands-free mode malfunctions and audio playback stops.",
+                "Account management is problematic, with password issues and difficulties deleting accounts."
+            ]
+        }
+    ],
+    "Studocu: AI Homework Helper": [
+        {
+            "positive_points": [
+                "The platform provides a large, diverse library of study resources\u2014including notes, summaries, books, and course materials\u2014covering many subjects, universities, and degrees.",
+                "The app is easy to use, with a simple, user-friendly interface and straightforward navigation that makes finding materials quick.",
+                "It supports exam preparation by offering past exam papers, previous-year questions, practice question sets, concise summaries, and revision aids.",
+                "Students can access materials for free and study without ads, minimizing costs and distractions.",
+                "It assists with assignments and essays through example papers, referencing tools, and organized coursework documents that simplify completion."
+            ],
+            "negative_points": [
+                "The app is extremely slow and unstable, frequently lagging, hanging, freezing, or crashing, and taking a long time to start, load screens, and open documents.",
+                "Users cannot download or save documents (PDFs, notes, lessons) or read them offline because download options are missing, paywalled, or fail with errors.",
+                "Documents often fail to open correctly within the app, loading indefinitely or appearing as blank, blurry, or black screens, and sometimes showing file-open errors.",
+                "Sign-in and account access are unreliable, with Google login failures, constant login loops, unexpected logouts, and signup or verification errors preventing access.",
+                "Subscription and billing are error-prone, including unauthorized charges, immediate billing during supposed free trials, failed premium upgrades or cancellations, and difficulty obtaining refunds."
+            ]
+        }
+    ],
+    "Kahoot! Play & Create Quizzes": [
+        {
+            "positive_points": [
+                "The game-based quiz format consistently makes learning fun and keeps learners engaged across ages.",
+                "The app is easy to use and quick to set up or join, enabling hassle-free quizzes in class, at home, or online.",
+                "Users can create and customize their own quizzes (Kahoots) in minutes and host them live or assign them for self-paced practice.",
+                "Teachers and facilitators use it to energize classrooms and groups, check understanding in real time, and drive active participation.",
+                "It effectively supports studying and revision by testing knowledge, reinforcing concepts, and helping users prepare for exams."
+            ],
+            "negative_points": [
+                "Essential features are locked behind paywalls and costly subscriptions, forcing users to pay to create, host, save, or share quizzes.",
+                "The app frequently crashes, freezes, or fails to open, causing games to stop mid\u2011quiz and forcing users to restart.",
+                "Performance is poor, with very slow loading, laggy gameplay, and delayed response when switching questions or submitting answers.",
+                "Users encounter persistent connection problems\u2014including drops, timeouts, server errors, and broken game PIN entry\u2014that disconnect players or prevent joining games.",
+                "Questions and answers often do not display on player devices (showing only shapes or blank boxes), requiring screen sharing or a second device and making the game unplayable."
+            ]
+        }
+    ],
+    "Quizard AI - Homework Helper": [
+        {
+            "positive_points": [
+                "The app effectively supports academic work by helping students complete homework and assignments and prepare for quizzes and exams.",
+                "The app provides clear, step-by-step explanations that make difficult concepts easy to understand and improve learning.",
+                "The app delivers answers and solutions quickly, with fast response times that save time on schoolwork.",
+                "The app consistently provides accurate, correct answers to questions and problems.",
+                "The app is easy to use, featuring an intuitive, user-friendly interface for submitting questions and viewing solutions."
+            ],
+            "negative_points": [
+                "The app frequently provides incorrect or unreliable answers, often misinterprets questions, and fails on complex calculations and subject-specific problems.",
+                "Core functionality is locked behind a paywall, requiring premium subscriptions or purchases to use essential features and making the app feel overly expensive.",
+                "Free usage is heavily restricted by tokens or question limits, causing users to run out quickly and forcing them to wait or pay to continue.",
+                "Camera and scanning features are unreliable, with OCR recognition errors (special characters and other languages), focus and cropping problems, inability to import from the gallery or take screenshots, and black or green screens after capturing.",
+                "The app is unstable, frequently crashing, freezing, failing to load, or stopping with blank screens and errors, sometimes requiring users to exit and reopen to continue."
+            ]
+        }
+    ],
+    "Homework AI - Math & Essay App": [
+        {
+            "positive_points": [
+                "The app consistently helps users complete homework and assignments across subjects.",
+                "The app effectively solves math problems and equations across grade levels, including tricky cases.",
+                "The app is easy to use, with a simple, user-friendly interface and clear instructions.",
+                "The app saves time by delivering fast performance and enabling quick completion of homework and study tasks.",
+                "The app provides accurate, reliable answers that users can trust to be correct."
+            ],
+            "negative_points": [
+                "The app forces a paywall with extremely limited free usage, requiring payment or a subscription for basic features and repeatedly prompting users to upgrade.",
+                "The AI delivers incorrect or inconsistent answers and often fails to solve math problems, making the help unreliable.",
+                "The app crashes or force-closes frequently\u2014especially when scanning or capturing photos\u2014kicking users out during tasks.",
+                "The scanning and text recognition are unreliable, misreading questions, failing to recognize math notation (e.g., inequalities, slope-intercept form, fractions), or returning blank/incorrect scans.",
+                "Pricing is perceived as too expensive, with high weekly/monthly costs and charges per question or gems that provide poor value."
+            ]
+        }
+    ],
+    "Course Hero: AI Homework Help": [
+        {
+            "positive_points": [
+                "The app reliably helps students complete homework and assignments across subjects by providing problem\u2011solving support, test and quiz preparation, and guidance for difficult questions.",
+                "The platform offers an extensive, course\u2011specific library of study materials\u2014including study guides, millions of documents, examples, and templates\u2014that students can access anytime.",
+                "Knowledgeable tutors are consistently available for one\u2011on\u2011one help, delivering accurate guidance and support for tough problems when students need it.",
+                "Answers and tutor feedback arrive quickly\u2014often instantly or within minutes\u2014so learners can progress on questions and research without delays.",
+                "The interface is easy to use and navigate on mobile and desktop, making it simple to find resources, ask questions, and study on the go."
+            ],
+            "negative_points": [
+                "The service is prohibitively expensive, with high subscription prices and pay\u2011per\u2011answer costs that many students say are not worth the value.",
+                "Core content and features are locked behind a paywall, with limited or expiring unlocks and blurred previews that force users to pay just to view documents or answers.",
+                "Billing and subscription management are unreliable, causing unauthorized or recurring charges, difficult cancellations, refused or delayed refunds, and subscriptions that fail to activate or be recognized after payment.",
+                "Answers and study materials are often incorrect, irrelevant, AI\u2011generated, or plagiarized, resulting in wrong or low\u2011quality help.",
+                "The app is unstable and slow, frequently crashing, freezing, or failing to load, and its camera/scan, upload/download, and file\u2011permission features often malfunction."
+            ]
+        }
+    ],
+    "Academi AI: Study & Exam Tutor": [
+        {
+            "positive_points": [
+                "The app is especially helpful for students and academic study, offering exam preparation tools and a study session feature.",
+                "It provides a wide range of study tools such as flashcards, quizzes, notes, and card generators, giving learners multiple options to practice and review.",
+                "It delivers quick answers with fast response times and solutions in seconds, helping users save time and manage their study schedules.",
+                "It streamlines coursework by generating assignments, essays, and presentation slides, including support for diagrams.",
+                "It answers users' questions clearly and helps resolve doubts across subjects."
+            ],
+            "negative_points": [
+                "Core features are locked behind coins or a paid subscription, and limited or unreliable coin\u2011earning mechanics plus constant upgrade prompts leave users unable to access answers, notes, and robot chat without paying.",
+                "Users frequently encounter access and availability problems such as login failures, 'server under maintenance' messages, the app getting stuck on the subject selection screen, and the app not working at all.",
+                "The AI often provides inadequate help, returning irrelevant responses, overly short math solution steps, or leaving questions unanswered.",
+                "Link handling is broken, with pasted URLs failing and valid links being rejected as invalid.",
+                "The upload workflow is problematic, with some users lacking a file upload option while others are blocked by a requirement to upload before proceeding."
+            ]
+        }
+    ],
+    "Nerd AI - Tutor & Math Helper": [
+        {
+            "positive_points": [
+                "The app consistently solves a wide range of math problems, including complex equations and word problems.",
+                "It provides clear, step-by-step explanations that show the full working for each solution.",
+                "It delivers accurate answers and correct solutions, including from scanned questions and images.",
+                "It is highly effective for homework assistance, helping students complete and check assignments across subjects.",
+                "The interface is easy to use and user-friendly, making the app simple to operate on most phones and for all ages."
+            ],
+            "negative_points": [
+                "The app gates core features behind an aggressive paywall and expensive subscription, with constant premium prompts and only a few free questions before access is blocked.",
+                "The app frequently delivers incorrect or unreliable solutions\u2014including basic calculation mistakes, wrong math steps, and inconsistent answers\u2014which makes it untrustworthy for homework help.",
+                "The app suffers from poor performance and stability, often loading slowly, lagging, freezing, crashing, showing black or blank screens, or failing to open\u2014even after updates or purchases.",
+                "The camera and scanning features are unreliable, failing to capture or recognize problems correctly (such as permission errors, broken camera, inaccurate cropping or framing, and inability to import from the gallery), which prevents users from submitting questions.",
+                "Billing and subscription management are problematic, with unauthorized or double charges, forced trials, difficulty canceling or restoring purchases, subscriptions not recognized across devices, and paid access not unlocking features."
+            ]
+        }
+    ],
+    "Tutor AI: Learning Assistants": [
+        {
+            "positive_points": [],
+            "negative_points": [
+                "The chatbot feels outdated, fails to understand queries, and does not retain conversation context.",
+                "The app fails to open or does not work properly on mobile phones.",
+                "Teaching or lesson content is cut off mid-session.",
+                "The app shows excessive ads that disrupt the user experience.",
+                "The input field limits users to only a few lines, preventing longer messages."
+            ]
+        }
+    ],
+    "StudyX: AI Homework Helper": [
+        {
+            "positive_points": [
+                "The app reliably helps users complete homework and assignments across a wide range of school subjects.",
+                "It delivers answers and solutions within seconds, enabling fast study and quick task completion.",
+                "It provides highly accurate, correct answers and trustworthy information for learning and exams.",
+                "It explains problems with clear, step-by-step solutions, showing methods, reasons, and calculation steps.",
+                "It excels at solving mathematics problems and equations, including showing the full working for each solution."
+            ],
+            "negative_points": [
+                "The app frequently provides incorrect, incomplete, or irrelevant answers across subjects (including math calculations, physics, SQL, and grammar), resulting in wrong solutions and poor explanations.",
+                "Core features and answers are locked behind a paywall or subscription, with many users reporting high and nontransparent pricing and even unexpected or unauthorized charges.",
+                "Free usage is severely restricted by strict limits\u2014such as daily question caps, credit/gem systems, only five free questions, and photo upload limits\u2014which prevents continued use without paying.",
+                "The app is unreliable and often fails to function properly, commonly not opening, crashing, getting stuck on the logo or a black screen, or returning server and fetch errors.",
+                "Overall performance is slow, with long response times, buffering and loading delays, and late image processing that make obtaining answers time-consuming."
+            ]
+        }
+    ],
+    "School Hack": [
+        {
+            "positive_points": [
+                "The app reliably helps students complete homework, assignments, and other school tasks across multiple subjects.",
+                "The app is easy to use and intuitive, making it simple to navigate and get help quickly.",
+                "The app delivers answers very fast, with instant or quick responses that speed up studying and task completion.",
+                "The app provides accurate and reliable answers, often with clear explanations and step-by-step solutions.",
+                "The app excels at writing support by creating and improving essays, speeches, and paragraphs, including paraphrasing and plagiarism checking."
+            ],
+            "negative_points": [
+                "The app is consistently slow and laggy, with long loading times, delayed AI responses, and sluggish processing across tasks.",
+                "The app frequently crashes, freezes, hangs, or fails to open, causing sessions to end unexpectedly.",
+                "Monetization barriers such as intrusive ads, coins/credits/tokens, limited free questions, and premium paywalls prevent normal use and often fail to grant credits.",
+                "The AI often fails to provide accurate, relevant, or complete answers and sometimes does not answer questions at all.",
+                "Document and image handling is unreliable, with uploads, scans, PDF/photo processing, and conversions frequently failing or taking too long."
+            ]
+        }
+    ],
+    "Gauth: AI Study Companion": [
+        {
+            "positive_points": [
+                "The app provides step-by-step explanations and shows every solution step, making complex problems easy to understand.",
+                "The app consistently returns accurate, correct answers across topics, allowing users to trust it for checking their work.",
+                "The app delivers instant answers with fast response times, helping users complete assignments much more quickly.",
+                "The app reliably helps students complete homework and assignments across multiple subjects and grade levels.",
+                "The app lets users snap a photo or type a question to get worked solutions, enabling quick camera-based problem solving."
+            ],
+            "negative_points": [
+                "The app frequently provides wrong, inconsistent, or inaccurate answers across subjects, making results unreliable.",
+                "Essential features are locked behind costly paywalls (subscriptions, tickets, or premium) after a few free tries, with constant pay prompts and reports of unexpected or unauthorized charges.",
+                "Users regularly encounter connection failures\u2014such as 'connection failed' and 'no internet' errors even on stable networks\u2014that block uploads and prevent answers from loading.",
+                "Performance is slow and unstable, with long loading and processing times, lag, freezes, and occasional crashes during scanning or answer generation.",
+                "Explanations are insufficient or missing\u2014step\u2011by\u2011step working and solution methods are often absent or only available behind a paywall\u2014making answers hard to understand or verify."
+            ]
+        }
+    ],
+    "Question.AI - Chatbot&Math AI": [
+        {
+            "positive_points": [
+                "The app reliably helps students complete homework and assignments across multiple subjects by solving questions and providing clear explanations.",
+                "It delivers highly accurate and correct answers, consistently providing precise solutions across math, science, English, and other topics.",
+                "The app responds instantly with fast answers and quick problem solving, saving users significant study and task time.",
+                "It explains solutions step by step with clear breakdowns, examples, and tutoring-style guidance that improve understanding and grades.",
+                "The interface is easy to use and user\u2011friendly, making it simple to scan questions, navigate features, and get help without friction."
+            ],
+            "negative_points": [
+                "The app overwhelms users with intrusive, often unskippable ads\u2014frequently after every question or action\u2014which interrupt usage, block content, and slow the app.",
+                "Answers are frequently incorrect or inconsistent\u2014especially for math and science\u2014leading to wrong solutions, flawed steps, and off\u2011topic replies even for paying users.",
+                "Core functionality is restricted by aggressive monetization, with tight daily limits (e.g., 10\u201340 questions) and paywalls that force subscriptions or coin purchases, sometimes accompanied by billing or refund issues.",
+                "Performance and stability are poor, with slow loading and response times, frequent crashes/freezes, and failures to open or work reliably\u2014often worsening after updates or when ads appear.",
+                "The camera and scanning features are unreliable, producing blurry captures and inaccurate recognition of photos, graphs, and diagrams, and often failing to upload or process images correctly."
+            ]
+        }
+    ],
+    "Brainly: AI Homework Helper": [
+        {
+            "positive_points": [
+                "The app helps students finish homework and assignments across subjects effectively.",
+                "The app solves math problems with clear, step-by-step explanations that show each working step.",
+                "The app provides accurate, correct answers that are often expert\u2011verified and reliable.",
+                "The app delivers answers very quickly, offering instant help when students are stuck or under time pressure.",
+                "The app includes textbook solutions and a scan/photo question feature to find exact book-aligned answers in seconds."
+            ],
+            "negative_points": [
+                "The app overwhelms users with excessive and intrusive ads that interrupt searching, scanning, and viewing answers.",
+                "Core content is gated behind paywalls: answers are locked after a few views and require Brainly Plus, payments, or watching ads, with strict daily or weekly limits.",
+                "Answer quality is unreliable\u2014many responses are incorrect, irrelevant, mismatched to the question, or lack clear, step-by-step explanations.",
+                "Access is blocked by account and platform barriers, including forced sign-ups, repeated logouts, login failures, and a website that blurs answers and pushes users to install the app.",
+                "The app is unstable and slow, frequently crashing or hanging, failing to open or load, and exhibiting numerous glitches during scanning and normal use."
+            ]
+        }
+    ],
+    "AI Questions Generator": [
+        {
+            "positive_points": [
+                "The app helps students and teachers learn more effectively by assisting with homework, strengthening weak subjects, and improving reading and learning skills.",
+                "It automatically converts user-provided text or notes into high-quality MCQs and quizzes, including topic-based and varied question generation with a switch to quiz mode.",
+                "It is highly effective for exam preparation, offering accurate exam-style questions, sample tests, and dedicated practice for competitive exams and GATE as well as subjects like physics.",
+                "The interface is easy to use, with intuitive design, straightforward settings, and simple content entry that makes work easier.",
+                "It provides robust study utilities such as a timer, history view, weekly or daily reminders, and adjustable difficulty levels to structure practice."
+            ],
+            "negative_points": [
+                "Users report aggressive paywalls and subscription issues, including being required to pay after a few quizzes, limited free access, difficult subscription cancellations, and high premium pricing.",
+                "The app frequently produces incorrect answers, including math and equation errors, causing many questions to be marked wrong.",
+                "The app lacks camera, photo, image, and scanner features needed to create questions from pictures, including a photo-based AI generator.",
+                "Document import and export capabilities are missing, such as converting PDF/PPT/DOC files into quizzes and exporting or saving quizzes as PDF or for printing.",
+                "Explanations and feedback are inadequate, with no step-by-step solutions, no question explanations, and no correct answer shown after a wrong attempt."
+            ]
+        }
+    ],
+    "Blackboard": [
+        {
+            "positive_points": [
+                "The app is consistently easy to use and navigate thanks to its clear, intuitive, and user\u2011friendly interface.",
+                "Real\u2011time push notifications reliably alert users to new grades, assignment deadlines, and course announcements, keeping them up to date without repeated logins.",
+                "Mobile, on\u2011the\u2011go access lets users view courses, assignments, and grades anywhere, reducing reliance on a laptop and enabling quick check\u2011ins.",
+                "Grade tracking is straightforward with quick access to current marks, immediate grade updates, and helpful color\u2011coded grade displays.",
+                "Assignment handling is streamlined with clear visibility of due dates, effective reminders, and the ability to submit work directly from the app."
+            ],
+            "negative_points": [
+                "The app frequently logs users out and does not retain login credentials, forcing repeated sign-ins and causing errors with SSO, two-factor authentication, and session expiration.",
+                "The app crashes repeatedly\u2014on startup, after updates, and when accessing courses or grades\u2014leading to forced restarts and loss of work.",
+                "Push notifications are broken: users often receive none, get them late or in endless duplicates, and links from notifications open blank or incorrect pages.",
+                "Performance is consistently slow, with long loading times, freezes, and laggy navigation that delay access to information.",
+                "Core content routinely fails to load or open, as courses, assignments, files, links, and grades return errors, show blank screens, or redirect to an external browser instead of working in-app."
+            ]
+        }
+    ],
+    "Mathos AI: Math Helper & Tutor": [
+        {
+            "positive_points": [
+                "The app provides clear, step-by-step solutions that are easy to understand, with helpful examples and optional YouTube video explanations.",
+                "The app effectively supports learners and educators, aiding self-study, difficult homework, and university-level math while helping slow learners.",
+                "The app is free to use with no ads, no registration required, and no image upload limits.",
+                "The app reliably solves a wide range of math problems using a specialized math AI.",
+                "The app delivers instant, fast solutions that reduce time spent on problem solving."
+            ],
+            "negative_points": [
+                "The app becomes unusable due to update-related bugs, including not opening or loading after updates, black screens, update loops, and failures to install updates.",
+                "Essential functionality is locked behind an expensive paywall and subscriptions, with the app not being free as advertised and imposing charges for image uploads and restrictive image limits that block solving multiple problems.",
+                "Key features are missing, such as a math calculator, image input support, saved history, and diagram/graph display.",
+                "Problem-solving quality is unreliable, with incorrect or repetitive answers, inability to solve some questions, and slow solution times.",
+                "Onboarding and access are hindered by setup and account issues, including sign-up failures and broken website verification."
+            ]
+        }
+    ]
+}
