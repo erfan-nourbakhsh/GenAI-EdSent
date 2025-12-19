@@ -379,10 +379,10 @@ python Top_5_Points_Generator.py
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{mazaheriyan2025genai,
-  title={Unveiling User Perceptions in the Generative AI Era: A Sentiment-Driven Evaluation of AI Educational Apps' Role in Digital Transformation of E-Teaching},
-  author={Mazaheriyan, Adeleh and Nourbakhsh, Erfan},
-  journal={arXiv preprint},
+@article{mazaherian2025unveiling,
+  title={Unveiling User Perceptions in the Generative AI Era: A Sentiment-Driven Evaluation of AI Educational Apps' Role in Digital Transformation of e-Teaching},
+  author={Mazaherian, Adeleh and Nourbakhsh, Erfan},
+  journal={arXiv preprint arXiv:2512.11934},
   year={2025}
 }
 ```
